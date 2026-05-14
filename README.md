@@ -22,6 +22,10 @@ Subscriptions are processed through Apple's App Store. The developer does not co
 
 Bias sends one local daily notification as a reminder. It is generated on your device and not transmitted to any server. Turn off any time in Settings > Notifications > Bias.
 
+## Children's Privacy
+
+Bias does not knowingly collect any data from anyone, including children under 13.
+
 ## Contact
 
 R Satyamoorthy
